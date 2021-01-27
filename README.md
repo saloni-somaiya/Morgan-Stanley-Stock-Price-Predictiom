@@ -1,6 +1,7 @@
 # Morgan-Stanley-Stock-Price-Prediction
 Scrapped daily stock data from Yahoo Finance to predict the close prices of the bank and analyze the performance of the stock market
 Estimated correlation between bank competitors and target company to evaluate algorithmic trading signals using S&P 500 index
+
 Leveraged Garch Model, Kalman Filter techniques, Fama French factors for tuning the models and help investors make better decisions.
 
 Models implemented:
