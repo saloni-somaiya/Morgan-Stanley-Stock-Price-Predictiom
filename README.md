@@ -1,1 +1,1 @@
-# Morgan-Stanley-Stock-Price-Predictiom
+# Morgan-Stanley-Stock-Price-Prediction
